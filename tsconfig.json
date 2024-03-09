@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "lib": ["dom", "es2016"],
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "jsx": "react",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "declaration": true,
+      "outDir": "./dist"
+    },
+    "include": ["index.tsx"],
+    "exclude": ["node_modules"]
+  }
+  
