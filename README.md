@@ -2,6 +2,10 @@
 
 A React component for handling clicks outside of a component
 
+```
+import {useComposedPath} from 'react-composed-path'
+```
+
 ## Examples
 *Single use:*
 ```
