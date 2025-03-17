@@ -1,6 +1,6 @@
 {
   "name": "react-composed-path",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A React component for handling clicks outside of a component",
   "main": "index.tsx",
   "scripts": {
